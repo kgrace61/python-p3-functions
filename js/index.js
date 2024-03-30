@@ -3,9 +3,8 @@
   greetProgrammer();
   => "Hello, programmer!"
 */
-function greetProgrammer() {
-  console.log("Hello, programmer!");
-}
+def greet_programmer():
+    print("Hello, programmer!")
 
 /*
   You should be able to call this function with one argument and see its output in the terminal:
